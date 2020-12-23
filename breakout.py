@@ -16,6 +16,7 @@ import pygame
 black = (0, 0, 0)
 white = (255, 255, 255)
 blue = (0, 0, 255)
+red = (255, 0, 0)
  
 # Size of break-out blocks
 block_width = 23
